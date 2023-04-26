@@ -1,0 +1,4 @@
+,Total Cycle,Read Cycle,Write Cycle,Total Energy(pJ),Total Latency(ns),Windows,AR Cycle,AC Cycle,Read Energy,Write Energy,Read Latency,Write Latency,Memory
+im2col,1802,1800,2,54030,9032,900,2,1,30,15,5,16,SRAM
+SDK,452,450,2,13530,2282,225,2,1,30,15,5,16,SRAM
+VW-SDK,452,450,2,13530,2282,4,2,1,30,15,5,16,SRAM
