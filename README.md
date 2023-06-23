@@ -31,7 +31,8 @@ After the user inputs the neural networks parameters and hardware parameters in 
 
 ![](./SimulatorUI.png)
 
-![](./structures.png)
+![](./structures1.png)
+![](./structures2.png)
 
 ---
 ## Mapping methods
