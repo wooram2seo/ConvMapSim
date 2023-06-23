@@ -29,9 +29,9 @@ sively evaluates and visualizes the performance of different model mapping metho
 ### Example and results
 After the user inputs the neural networks parameters and hardware parameters in the GUI, the simulation results are displayed as shown below.
 
-![](./SimulatorUI.PNG)
+![](./SimulatorUI.png)
 
-![](./structures.PNG)
+![](./structures.png)
 
 ---
 ## Mapping methods
